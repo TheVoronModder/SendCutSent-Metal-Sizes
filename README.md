@@ -6,6 +6,7 @@ List of SendCutSend sheetmetal thicknesses
 
 (Pro tip: utilize .187" / 4.75mm for rigid beds, if you want G.O.A.T. utilize .25" / 6.35mm)
 * 5052 H32 is the premium choice of aluminum sheet for bends
+  
 | Thickness (Inches) | Thickness (Metric) |
 |:---:|:---:|
 | 0.040" | 1.02 mm |
@@ -24,7 +25,8 @@ List of SendCutSend sheetmetal thicknesses
 # Aluminum 6061 T6
 
 (Pro tip: utilize .187" / 4.75mm for rigid beds, if you want G.O.A.T. utilize .25" / 6.35mm)
-* 6061 T6 is much stronger than 5052 H32, do not bend this stuff) 
+* 6061 T6 is much stronger than 5052 H32, do not bend this stuff)
+  
 | Thickness (Inches) | Thickness (Metric) |
 |:---:|:---:|
 | 0.040" | 1.02 mm |

@@ -4,6 +4,7 @@ List of SendCutSend sheetmetal thicknesses
 # SendCutSend-Metal-Sizes
 List of SendCutSend sheet metal thicknesses
 
+# Aluminum 5052 H32
 <table>
   <tr>
     <th>Thickness (Inches)</th>
